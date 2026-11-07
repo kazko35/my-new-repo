@@ -1,0 +1,5 @@
+Student name: Ege Deniz Cengiz
+Student number: 761614
+Student class: IT1B
+GitHub Repository: https://github.com/kazko35/my-new-repo
+GitHub Pages URL: https://kazko35.github.io/my-new-repo/

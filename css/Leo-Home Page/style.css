@@ -1,0 +1,53 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Rouge-Script", cursive;
+    background-color: #3A10F0;
+    color: white;
+}
+
+    h1, h2, h3 {
+    font-family: inherit;
+    font-weight: 600;
+}
+
+
+h1 { font-size: 3rem; }
+h2 { font-size: 2.25rem; }
+h3 { font-size: 1.75rem; }
+
+body {
+    background-color: #3A10F0;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+article img {
+    max-width: 400px;
+    border-radius: 12px;
+}
+
+.logo img {
+    height: 140px;
+    width: auto;
+}
+form {
+    display: grid;
+    gap: 12px;
+    max-width: 400px;
+}
+
+input, textarea {
+    padding: 8px;
+    font-family: inherit;
+}
